@@ -1,5 +1,7 @@
 # 🔄 PostgreSQL Synchronization with RisingWave
 
+![Project Screenshot](Images.png)
+
 This project demonstrates real-time data synchronization between two PostgreSQL instances using RisingWave as the CDC (Change Data Capture) pipeline.
 
 ## 🏗️ Architecture Overview
